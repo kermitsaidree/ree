@@ -1,0 +1,46 @@
+body {
+	font-family: Arial;
+	background-color: #42cef4;
+}
+
+.title {
+	overflow: hidden;
+	background-color: #ffffff;
+}
+
+.title h1 {
+	display: block;
+	text-align: center;
+	display: block;
+	text-align: center;
+	text-decoration: none;
+}
+.title h1:hover {
+	color: Pink;
+}
+h2 {
+	text-align: center;
+}
+.main {
+	position: fixed;
+	top: 10pc;
+}
+
+.main p {
+	font-family: "Comic Sans MS";
+	font-size: 50px;
+	position: 
+}
+
+.hi button {
+	position: fixed;
+	left: 50pc;
+	bottom: 10pc;
+	width: 500px;
+	height: 100px;
+}
+img {
+	position: fixed;
+	bottom: 20pc;
+	left: 50pc;
+}
